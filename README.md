@@ -6,4 +6,4 @@ ____________________________________________
 ***
  ### 🤝Connect with me
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/MahsaaPk/MahsaaPk/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/MahsaaPk/MahsaaPk/branch/images/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
