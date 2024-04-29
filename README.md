@@ -5,8 +5,6 @@ ____________________________________________
 Mahsa.Paknejad@uottawa.ca
 
 ```diff
-- This is a red colored line
-+ This is a green colored line
 @@ This  @@
 ```
 <!--
