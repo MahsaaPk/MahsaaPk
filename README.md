@@ -1,9 +1,14 @@
+![GitHub all releases](https://img.shields.io/github/downloads/{MahsaaPk}/{repo-name}/total)
+![GitHub language count](https://img.shields.io/github/languages/count/{MahsaaPk}/{repo-name})
+![GitHub top language](https://img.shields.io/github/languages/top/{MahsaaPk}/{repo-name}?color=yellow)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{MahsaaPk}/{repo-name})
+![GitHub forks](https://img.shields.io/github/forks/{MahsaaPk}/{repo-name}?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/{MahsaaPk}/{repo-name}?style=social)
 ### 🐱 About Me 
 ____________________________________________
 * 🎓 I am a Master's student at Uottawa in the program of Applied Science in Electrical and Computer Enginnering with Concentration in Applied AI.
-* ✉️ You can contact me here:```diff
-Mahsa.Paknejad@uottawa.ca
-```
+* ✉️ You can contact me here: Mahsa.Paknejad@uottawa.ca
+
 
  
 
