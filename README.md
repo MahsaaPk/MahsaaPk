@@ -1,5 +1,7 @@
 ### 🐱 About Me 
 --------------------------------------------------
+* 🎓 I am a Master's student at Uottawa in the program of Applied Science in Electrical and Computer Enginnering with Concentration in Applied AI.
+* 📨 Contact me here
 
 
 <!--
