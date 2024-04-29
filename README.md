@@ -4,7 +4,11 @@ ____________________________________________
 * ✉️ You can contact me here:
 Mahsa.Paknejad@uottawa.ca
 
-
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This  @@
+```
 <!--
 **MahsaaPk/MahsaaPk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
