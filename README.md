@@ -2,7 +2,7 @@
 ____________________________________________
 * 🎓 I am a Master's student at Uottawa in the program of Applied Science in Electrical and Computer Enginnering with Concentration in Applied AI.
 * Here are some links you can contact me:
-* ### 📨 Email: Mahsa.Paknejad@uottawa.ca
+* 📨 **Email**: Mahsa.Paknejad@uottawa.ca
 
 
 <!--
