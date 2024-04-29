@@ -5,6 +5,4 @@ ____________________________________________
 
 ***
  ### 🤝Please connect
- <!-- Linkedin -->
-<i class="fab fa-linkedin-in fa-2x" style="color: #0082ca;"></i>
-![Image](/component-library/images/website.svg)
+![Image](linkedin.png)
