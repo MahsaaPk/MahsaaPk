@@ -5,7 +5,14 @@ ____________________________________________
 
 ***
  ### 🤝Connect with me
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/mahsa-paknejad?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSut0wB%2FOTX23MoZPNvmqrQ%3D%3D)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
