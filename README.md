@@ -6,4 +6,11 @@ ____________________________________________
 ***
  ### 🤝Connect with me
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/MahsaaPk/MahsaaPk/main/images/linkedin.svg" alt=”Mahsa Paknejad | LinkedIn” width=”21px”/></a>
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
