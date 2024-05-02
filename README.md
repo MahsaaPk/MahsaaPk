@@ -11,7 +11,7 @@
 
 <div id="about">
   <ul>
-    <li>🎓 I am a Master's student at Uottawa in the program of Applied Science in Electrical and Computer Engineering with a Concentration in Applied AI.</li>
+    <li>🎓 I am a Master's student at uOttawa in the program of Applied Science in Electrical and Computer Engineering with a Concentration in Applied AI.</li>
     <li>✉️ You can contact me here: Mahsa.Paknejad@uottawa.ca</li>
   </ul>
 </div>
